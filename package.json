@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "name",
-  "version": "<VERSION>",
+  "version": "0.0.1",
   "description": "<DESCRIPTION>",
   "module": "./dist/index.mjs",
   "scripts": {
